@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "left-pad": "^1.0.0",
-    "toybox-js": "~1.0.0"
+    "toybox-js": "~1.1.0"
   }
 }
